@@ -5,6 +5,7 @@ export default function Home() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1 className={styles.title}>
+          changed by rick.
           Welcome to <a href="https://www.laconic.com/">Laconic!</a>
         </h1>
 
